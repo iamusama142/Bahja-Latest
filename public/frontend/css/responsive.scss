@@ -1,0 +1,119 @@
+$lp: 'only screen and (min-width: 1200px) and (max-width: 1600px)';
+$xl: 'only screen and (min-width: 1200px)';
+$lg : 'only screen and (min-width: 992px) and (max-width: 1199px)';
+$md:'only screen and (min-width: 768px) and (max-width: 991px)';
+$xm:'(max-width: 991px)';
+$xs:'(max-width: 767px)';
+$xss:'(max-width: 400px)';
+$sm: 'only screen and (min-width: 576px) and (max-width: 767px)';
+
+footer {
+  overflow: hidden;
+} 
+.shopping-cart{
+  width: 100%;
+}
+.customer-profile{
+  padding:2rem 1rem;
+}
+.shopping-cart {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.inner-page{
+  overflow-x: hidden;
+}
+
+.page-head{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-right: 15px;
+padding-left: 15px;
+}
+.shopping-cart .list-group-item{
+  font-size: 1.2rem;
+}
+.account-menu .svg-icon{
+  font-size: 17px;
+}
+.shopping-cart .list-group-item{
+  background-color: #FFF;
+}
+
+.account-menu .active {
+  background: #6ba2d0;
+  color: #000;
+}
+    @media #{$xm}{
+   
+  .search-form{
+        display: none;
+    
+}
+.home-cont .container h1{
+  font-size: 3.5rem;
+}
+.item h3{
+  font-size: 1.5rem;
+}
+
+.search-form{
+  width: 280px;
+  bottom: -45px;
+  position: absolute;
+right: -30px;
+}
+header .hamburger-menu .bar.animate::before, header .hamburger-menu .bar.animate::after
+
+{
+  background: #FFF;
+}
+.discount_price{
+  width: 100%;
+}
+
+.product-grid li .product .product-content .price
+
+{
+  flex-direction: column;
+    display: flex;
+}
+.product-grid li .product .product-content .price{
+  font-size: 2rem;
+}
+.page-head h3{
+  font-size: 3.5rem;
+}
+
+.details-head h2{
+  font-size: 3rem;
+}
+
+.product-right .price{
+  font-size: 3rem;
+}
+.fix-btn{
+  z-index: 999;
+}
+
+.photoswipe-gallery{
+  padding:0 20px;
+}
+
+.print-logo img {
+  width: 110px !important;
+  height: 90px !important;
+}
+
+.account-menu{
+  display: block;
+}
+.inner-page{
+  margin-top: 30px;
+}
+.page-head{
+  padding-top: 0;
+padding-bottom: 1rem;
+}
+}

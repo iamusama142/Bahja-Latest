@@ -1,0 +1,465 @@
+.product-head{
+    transform: scaleX(-1);
+} 
+
+ .view-all{
+    transform: scaleX(-1);}
+
+.home-cont .container h1{
+    transform: scaleX(-1);
+    font-family: 'Tajawal-Regular';
+}
+
+.h6{
+    font-family: 'Tajawal-Regular'; 
+}
+
+.select-box select{
+    font-family: 'Tajawal-Light';
+}
+.lunch-right h3{
+
+    text-align: right;
+    font-family: 'Tajawal-Medium';
+}
+.lunch-right h1{
+    font-family: 'Tajawal-Regular';
+}
+.custom-field{
+    font-family: 'Tajawal-Light';
+}
+.address-part .delivery-info .rdio-primary{
+    width: 100%;
+   
+    text-align: right;
+}
+
+.address-part .delivery-info label input{
+    position: relative;
+}
+/* .row{
+    direction: rtl;
+} */
+
+/* .row{
+    flex-wrap: nowrap;
+} */
+
+.cart-cont{
+    display: flex;
+    flex-wrap: nowrap !important;
+}
+.view-all a{
+    font-family: 'Tajawal-Light';
+}
+.new-arrivel p{
+    font-family: 'Tajawal-Light'; 
+}
+.product-details-block h3 {
+text-align: end;
+
+font-family: 'Tajawal-Regular';}
+
+.attribute-block {
+    text-align: end;
+}
+.new-arrivel .link-text a{
+    font-family: 'Tajawal-Light'; 
+}
+footer .copy-part p{
+    font-family: 'Tajawal-Light';
+}
+.item h3{
+    font-family: 'Tajawal-Regular'; 
+}
+.more-btn{
+    font-family: 'Tajawal-Medium'
+}
+/* .product-accordion .card-header{
+    transform: rotateY(180deg);
+} */
+.product-grid li .product .product-content .price{
+    font-family: 'Tajawal-Regular';
+}
+.product-grid li .product .product-content h3{
+    font-family: 'Tajawal-Medium';
+}
+footer .footer-bottom ul li a{
+    font-family: 'Tajawal-Medium';
+}
+.product-details-slider h1{
+    font-family: 'Tajawal-Regular';
+}
+.product-accordion .btn{
+    font-family: 'Tajawal-Light';
+}
+.menu-item a{
+    font-family: 'Tajawal-Medium';
+}
+.product-details-block h4{
+    font-family: 'Tajawal-Light';
+}
+.price-area .stock-block .instock{
+    font-family: 'Tajawal-Light';
+}
+.product-accordion .card-body div{
+    text-align: end;
+    font-family: 'Tajawal-Light';
+}
+
+.product-accordion .card-body p{
+    text-align: end;
+}
+.price-area{
+    transform: rotateY(180deg);
+}
+
+.price-area .stock-block {
+    transform: rotateY(180deg);
+}
+
+.price-area .price-block .price{
+    transform: rotateY(180deg); 
+}
+.header-top .top-message{
+    font-family: 'Tajawal-Medium';
+    /* font-weight: 300; */
+}
+
+.head-left .top-menu a{
+    font-family: 'Tajawal-Light';
+}
+
+.about-part .container .row{
+    direction: rtl;
+}
+
+.lunch-right{
+    text-align: right;
+    
+    padding-right: 20px;
+
+}
+
+.searchStore-input{
+    font-size: 13px !important;
+}
+
+.about-part .container .row  .col-lg-6{
+    padding-right: 80px;
+}
+
+.footer-bottom .container .row{
+    direction: rtl;
+}
+
+footer .footer-bottom ul {
+
+    text-align: right;
+}
+
+.ft-contact h3 {
+margin-right: 25px;
+}
+.about-part .container .row .col-lg-6{
+    padding-right: 16px;
+
+}
+
+.page-head h3{
+    font-family: 'Tajawal-Medium';
+}
+.search-popup h5{
+    font-family: 'Tajawal-Light';
+}
+
+.search-popup .search-cont .search-text{
+    font-family: 'Tajawal-Light';
+}
+
+.table td, .table th {
+    font-family: 'Tajawal-Light';
+}
+.shipping{
+    text-align: right;
+}
+.checkout-left h4{
+    font-family: 'Tajawal-Medium';
+    margin-right: 25px;
+    text-align: right;
+}
+.address-part .add-adddress a i{
+    float: right;
+}
+.shipping span{
+    font-family: 'Tajawal-Light';
+}
+.address-part .add-adddress a{
+    font-family: 'Tajawal-Light';
+}
+
+.col-8 h2{
+    font-family: 'Tajawal-Medium';
+}
+.about-cont h4{
+    font-family: 'Tajawal-Regular';
+}
+.about-cont p{
+    font-family: 'Tajawal-Light';
+}
+.contact-address .contact-list{
+    width: 100%;
+}
+
+.contact-address h3{
+    font-family: 'Tajawal-Regular';
+}
+.contact-address .contact-list p {
+    font-family: 'Tajawal-Light';
+}
+.sidebar .sidebar-block .accordion-heading .acc-btn h5{
+    font-family: 'Tajawal-Light';
+}
+
+.contact-from h3{
+    font-family: 'Tajawal-Regular';
+}
+.address-part .address-action .btn{
+    font-family: 'Tajawal-Light';
+}
+
+.address-part .address-action {
+margin-right: 18px;
+}
+
+/* .ml-auto, .mx-auto{
+    margin-right: 58%;
+} */
+.updateCart{
+    float: left;
+}
+
+/* .cart-right{
+    margin-left: 23px!important;
+} */
+
+.cupon-box{
+    width: 100%;
+    margin-top: 30px;
+    text-align: right;
+    margin-right: 35px;
+}
+.cart-cont{
+    direction: rtl;
+}
+.cart-cont .price{
+    text-align: right;
+}.ml-auto, .mx-auto {
+    margin-right: auto!important;
+    margin-left: 0!important;
+}
+.cart-right .mb-1{
+    text-align: right;
+}
+.mt-0{
+    text-align: right; 
+}
+
+.custom-control-input{
+    position: relative;
+}
+.text-muted{
+    font-family: 'Tajawal-Light'; 
+}
+.shopping-cart .list-group-item{
+    font-family: 'Tajawal-Light'; 
+}
+.shopping-cart .remove-btn{
+    font-family: 'Tajawal-Light'; 
+}
+.text-body{
+    font-family: 'Tajawal-Light'; 
+}
+
+.list-group{
+    text-align: right;
+}
+
+.address-part p{
+    font-family: 'Tajawal-Light';
+    margin-right: 25px;
+}
+.form-control{
+    
+	font-family: 'Tajawal-Medium';
+}
+.orders-table thead th{
+    font-family: 'Tajawal-Light';
+}
+
+.shopping-cart .account-menu span{
+    font-family: 'Tajawal-Light';
+}
+.page-head h2{
+    font-family: 'Tajawal-Medium';
+}
+.btn{
+    font-family: 'Tajawal-Light';
+}
+
+.float-left{
+    font-family: 'Tajawal-Light';
+}
+
+.login-right .or{
+    font-family: 'Tajawal-Light';
+}
+
+header .right-cart h5{
+    font-family: 'Tajawal-Medium';
+}
+/* product styling starts from here */
+.login-form h2{
+    font-family: 'Tajawal-Regular';
+}
+
+.form-group label{
+    font-family: 'Tajawal-Light';
+}
+.sidebar .sidebar-block{
+    direction: rtl;
+}
+
+.sidebar .sidebar-block .accordion-heading .collapsed .arrow{
+    transform: scaleX(-1);
+    margin-right: 2px;
+    margin-top: 1px;
+}
+
+.sidebar .sidebar-block .accordion-heading .acc-btn .arrow{
+    transform: scaleX(-1);
+    margin-right: 2px;
+    margin-top: 1px;
+}
+.sidebar .sidebar-block .accordion-heading .acc-btn{
+    font-family: 'Tajawal-Light';
+}
+/* product styling ends from here */
+
+/* contact css starts from here */
+
+
+.contact-address{
+    direction: rtl;
+}
+
+.contact-address h3{
+    text-align: right;
+    margin-right: 39px;
+}
+.contact-address .contact-list p {
+    margin-right: 36px;
+}
+
+form .col-12{
+    direction: rtl;
+}
+
+.contact-from h3{
+    color: #FFF;
+    text-align: right;
+    margin-right: 8px;
+}
+/* contact css ends from here */
+
+/* search bar */
+.modal-content{
+    direction: rtl;
+}
+
+.modal-header .close{
+    margin: 0;
+}
+/* search bar ends */
+
+/* login starts from here */
+.login-area {
+    direction: rtl;
+}
+.login-form h2{
+    text-align: right;
+    margin-right: 4px;
+}
+.account-right .form-group{
+    direction: rtl;
+    text-align: right;
+}
+
+.sidebar-cart-product-wrapper span{
+    font-family: 'Tajawal-Light';
+}
+.mt-4 label{
+    margin-left: 466px;
+}
+/* login ends from here */
+/* about css start from here */
+ .about-cont{
+    direction: rtl;
+ }
+ .float-right{
+    float: left !important;
+ }
+ .w-100 .mb-4{
+    text-align: right;
+ }
+ .account-right h5{
+    text-align: right;
+    font-family: 'Tajawal-Regular';
+ }
+
+ .col-8 h2{
+text-align: right;
+margin-right: 10px;
+ }
+
+ .about-cont h4{
+    text-align: right;
+ }
+
+ .about-cont p{
+    text-align: right;
+ }
+ .address-part h2{
+    text-align: right;
+ }
+
+ .list-unstyled{
+    padding-right: 10px;
+ }
+
+ footer .social-block ul{
+    width: 75% !important;
+ }
+ /* about css start from here */
+
+ .cart-right {
+    margin-left: 23px!important;
+}
+
+@media (max-width :750px) {
+    .cupon-box{
+        margin-right: 0px;
+    }
+    .form-row{
+        margin-right: -15px;
+        margin-left: -20px;
+    }
+    .updateCart{
+        float: right;
+    }
+
+    
+.row{
+    flex-wrap: wrap;
+}
+}
